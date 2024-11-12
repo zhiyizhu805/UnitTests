@@ -1,0 +1,14 @@
+# VS Code settings
+.vscode/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Dotnet specific
+*.vs
